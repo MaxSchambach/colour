@@ -37,6 +37,7 @@ Common
     is_networkx_installed
     is_openimageio_installed
     is_pandas_installed
+    is_trimesh_installed
     is_iterable
     is_string
     is_numeric
